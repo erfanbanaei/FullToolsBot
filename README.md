@@ -7,4 +7,5 @@ Enter the robot [BotFather](https://t.me/BotFather) enter the command /mybots cl
 ## Installation
 ```bash
 git clone https://github.com/erfanbanaei/FullToolsBot
+cd FullToolsBot
 ```
