@@ -9,5 +9,5 @@ Enter the robot [BotFather](https://t.me/BotFather) enter the command /mybots cl
 git clone https://github.com/erfanbanaei/FullToolsBot
 cd FullToolsBot
 pip install -r requirements.txt
-
+python main.py
 ```
