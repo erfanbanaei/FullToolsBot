@@ -11,3 +11,5 @@ cd FullToolsBot
 pip install -r requirements.txt
 python main.py
 ```
+## File editing
+Go to [config.json](https://github.com/erfanbanaei/FullToolsBot/blob/main/config.json) 
